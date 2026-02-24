@@ -1,0 +1,25 @@
+{
+  "name": "cinefilia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "../node_modules/.bin/tsc"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+
+  "scripts": {
+    "dev": "node server.js"
+
+},
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
