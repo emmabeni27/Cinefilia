@@ -24,3 +24,11 @@ useEffect(() => {
 }
 
 export default App
+
+/*
+<Route path="/register" element={<Register/>} />
+<Route path="/weekly" element={<Weekly/>} />
+<Route path="/forum" element={<Forum/>} />
+<Route path="/myprofile" element={<MyProfile/>} />
+<Route path="/load" element={<LoadWeekly/>} />
+ */

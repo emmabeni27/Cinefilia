@@ -5,7 +5,7 @@ function Landing() {
         <>
         <Header/>
 
-        <h1 style={{ fontFamily: "'Allura', cursive", position: 'fixed',left: 50, top: -20}}>Cinefilia</h1>
+        <h1 style={{ fontFamily: "'Allura', cursive", color: 'gold', position: 'fixed',left: 50, top: -20}}>Buscapeli</h1>
         <p style={{color: 'black'}}>¿Recordás esa película que tanto te gustó? <br/>
             Su trama, sus actores... pero no su nombre. En Cinefilia, fans del cine te ayudarán a encontrar ese título leyendo tu descripción para que la encuentres nuevamente.<br/>
             ¡CUIDADO CON LOS SPOILERS!<br/>
