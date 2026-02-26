@@ -5,9 +5,9 @@ export function Header() {
             top: 0,
             left: 0,
             right: 0,
-            zIndex: 9999,
             width: '100%',
-            height: '64px',
+            //se fue el z-index 9999
+            height: '80px', //antes era 60, pero era mucho
             backgroundColor: '#800020'
         }}>
         </header>
